@@ -4,7 +4,7 @@ Thank you for being my +1 visitor.
 
 ### Briefly keeping myself busy with:
 
-- I'm modifying/creating new functions at [Medlife.com](https://www.medlife.com/).
+- I'm modifying/creating new functions at [PharmEasy.in](https://pharmeasy.in/).
 - Beside building [subhajit.dev](https://subhajit.dev/) and [scrollfact.org](https://scrollfact.org/).
 - Learning cross borders & domains: [Español](https://en.wikipedia.org/wiki/Spanish_language) and [Node JS](https://nodejs.org/en/).
 
